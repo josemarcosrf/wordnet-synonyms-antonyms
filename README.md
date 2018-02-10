@@ -1,6 +1,10 @@
-# Synonyms and Antonyms using Spacy POS tagging and [WordNet](http://wordnet.princeton.edu)
+## Synonyms and Antonyms using Spacy POS tagging and [WordNet](http://wordnet.princeton.edu)
 
+Small script to find synonyms and anotnyms from a given word base on
+it's POS tag.
 
-# References:
+### References:
 
-Princeton University "About WordNet." WordNet. Princeton University. 2010.
+* [NLTK WordNet](http://www.nltk.org/howto/wordnet.html)
+
+* Princeton University "About WordNet." WordNet. Princeton University. 2010.
